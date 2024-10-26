@@ -1,2 +1,3 @@
-# networth.github.io
-Static content for blog
+# My User-Friendly GitHub Blog
+
+This is a complete blog website for GitHub Pages using Jekyll.
